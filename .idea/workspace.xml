@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add Variabel.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/VarVariabel.kt" afterDir="false" />
+    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add VarVariabel.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Number.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ValVariabel.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.VarVariabelKt">
+  <component name="RunManager" selected="Kotlin.NumberKt">
     <configuration name="LiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LiteralKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -46,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainAppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainAppKt" />
+    <configuration name="NumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NumberKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NumberKt" />
         <item itemvalue="Kotlin.VarVariabelKt" />
         <item itemvalue="Kotlin.VariabelKt" />
         <item itemvalue="Kotlin.WhitespacesKt" />
         <item itemvalue="Kotlin.LiteralKt" />
-        <item itemvalue="Kotlin.MainAppKt" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725431265388</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add VarVariabel.kt">
+      <created>1725431678189</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725431678189</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +153,7 @@
     <MESSAGE value="Add Whitespaces.kt" />
     <MESSAGE value="Add BlokdanKomentar.kt" />
     <MESSAGE value="Add Variabel.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Variabel.kt" />
+    <MESSAGE value="Add VarVariabel.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add VarVariabel.kt" />
   </component>
 </project>
