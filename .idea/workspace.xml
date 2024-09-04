@@ -38,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.RepresentasiKt">
+  <component name="RunManager" selected="Kotlin.KonversiEksplisitKt">
     <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -53,8 +53,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberKt" />
+    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KonversiEksplisitKt" />
         <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreKt" />
         <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.FloatingPointKt" />
-        <item itemvalue="Kotlin.NumberKt" />
       </list>
     </recent_temporary>
   </component>
