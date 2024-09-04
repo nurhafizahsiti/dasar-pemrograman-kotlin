@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add ConstantsLiteral.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Underscore.kt" afterDir="false" />
+    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add Underscore.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.UnderscoreKt">
+  <component name="RunManager" selected="Kotlin.RepresentasiKt">
     <configuration name="ConstantsLiteralKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConstantsLiteralKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -60,6 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RepresentasiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RepresentasiKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UnderscoreKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="UnderscoreKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -67,20 +74,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarVariabelKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarVariabelKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.RepresentasiKt" />
         <item itemvalue="Kotlin.UnderscoreKt" />
         <item itemvalue="Kotlin.ConstantsLiteralKt" />
         <item itemvalue="Kotlin.FloatingPointKt" />
         <item itemvalue="Kotlin.NumberKt" />
-        <item itemvalue="Kotlin.VarVariabelKt" />
       </list>
     </recent_temporary>
   </component>
@@ -163,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725433442581</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add Underscore.kt">
+      <created>1725433771420</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725433771420</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -177,6 +184,7 @@
     <MESSAGE value="Add Number.kt" />
     <MESSAGE value="Add FloatingPoint.kt" />
     <MESSAGE value="Add ConstantsLiteral.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add ConstantsLiteral.kt" />
+    <MESSAGE value="Add Underscore.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Underscore.kt" />
   </component>
 </project>
