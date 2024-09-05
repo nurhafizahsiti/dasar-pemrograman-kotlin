@@ -40,7 +40,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.StringKt">
+  <component name="RunManager" selected="Kotlin.String2Kt">
     <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KonversiEksplisitKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KonversiEksplisitKt" />
+    <configuration name="String2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="String2Kt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.String2Kt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.KonversiEksplisitCharKt" />
         <item itemvalue="Kotlin.CharKt" />
-        <item itemvalue="Kotlin.KonversiEksplisitKt" />
       </list>
     </recent_temporary>
   </component>
