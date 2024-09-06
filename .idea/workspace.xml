@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add PenerapanString.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CaesarChiper.kt" afterDir="false" />
+    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add CaesarChiper.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SandiMorse.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +38,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.CaesarChiperKt">
+  <component name="RunManager" selected="Kotlin.SandiMorseKt">
     <configuration name="AnggotaStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnggotaStringKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -60,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RawString2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RawString2Kt" />
+    <configuration name="SandiMorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SandiMorseKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.SandiMorseKt" />
         <item itemvalue="Kotlin.CaesarChiperKt" />
         <item itemvalue="Kotlin.PenerapanStringKt" />
         <item itemvalue="Kotlin.AnggotaStringKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
-        <item itemvalue="Kotlin.RawString2Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725585887424</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Add CaesarChiper.kt">
+      <created>1725586336625</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1725586336625</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +298,8 @@
     <MESSAGE value="Add StringTemplates.kt" />
     <MESSAGE value="Add AnggotaString.kt" />
     <MESSAGE value="Add PenerapanString.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanString.kt" />
+    <MESSAGE value="Add CaesarChiper.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add CaesarChiper.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
