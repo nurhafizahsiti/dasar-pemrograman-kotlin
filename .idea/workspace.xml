@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add AnggotaString.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanString.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add PenerapanString.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CaesarChiper.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +38,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.PenerapanStringKt">
+  <component name="RunManager" selected="Kotlin.CaesarChiperKt">
     <configuration name="AnggotaStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AnggotaStringKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaesarChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CaesarChiperKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -61,13 +67,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RawStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RawStringKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StringTemplatesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringTemplatesKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -77,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CaesarChiperKt" />
         <item itemvalue="Kotlin.PenerapanStringKt" />
         <item itemvalue="Kotlin.AnggotaStringKt" />
         <item itemvalue="Kotlin.StringTemplatesKt" />
         <item itemvalue="Kotlin.RawString2Kt" />
-        <item itemvalue="Kotlin.RawStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -248,8 +247,26 @@
       <option name="project" value="LOCAL" />
       <updated>1725537865121</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Add PenerapanString.kt">
+      <created>1725585887424</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1725585887424</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Push stater project." />
@@ -273,6 +290,21 @@
     <MESSAGE value="Add RawString2.kt" />
     <MESSAGE value="Add StringTemplates.kt" />
     <MESSAGE value="Add AnggotaString.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add AnggotaString.kt" />
+    <MESSAGE value="Add PenerapanString.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PenerapanString.kt" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/main/kotlin/PenerapanString.kt</url>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
