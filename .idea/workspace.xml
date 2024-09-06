@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add SandiMorse.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Inputan1.kt" afterDir="false" />
+    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add Inputan2.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kalkulator.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -38,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Inputan2Kt">
+  <component name="RunManager" selected="Kotlin.KalkulatorKt">
     <configuration name="CaesarChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CaesarChiperKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -60,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PenerapanStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PenerapanStringKt" />
+    <configuration name="KalkulatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KalkulatorKt" />
       <module name="DasarPemrogramanKotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.KalkulatorKt" />
         <item itemvalue="Kotlin.Inputan2Kt" />
         <item itemvalue="Kotlin.Inputan1Kt" />
         <item itemvalue="Kotlin.SandiMorseKt" />
         <item itemvalue="Kotlin.CaesarChiperKt" />
-        <item itemvalue="Kotlin.PenerapanStringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +269,21 @@
       <option name="project" value="LOCAL" />
       <updated>1725587150561</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Add Inputan1.kt">
+      <created>1725587479470</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1725587479470</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add Inputan2.kt">
+      <created>1725587746561</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1725587746561</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -283,7 +298,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Push stater project." />
     <MESSAGE value="Add MainApp.kt" />
     <MESSAGE value="Add Literal.kt" />
     <MESSAGE value="Add Whitespaces.kt" />
@@ -307,7 +321,9 @@
     <MESSAGE value="Add PenerapanString.kt" />
     <MESSAGE value="Add CaesarChiper.kt" />
     <MESSAGE value="Add SandiMorse.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add SandiMorse.kt" />
+    <MESSAGE value="Add Inputan1.kt" />
+    <MESSAGE value="Add Inputan2.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Inputan2.kt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
