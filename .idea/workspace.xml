@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add Inputan2.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kalkulator.kt" afterDir="false" />
+    <list default="true" id="b20ae036-0c2a-4eab-af75-260868d9136d" name="Changes" comment="Add Kalkulator.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/PenerapanString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/PenerapanString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Representasi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.KalkulatorKt">
-    <configuration name="CaesarChiperKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CaesarChiperKt" />
-      <module name="DasarPemrogramanKotlin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PraPraktikumKt">
     <configuration name="Inputan1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inputan1Kt" />
       <module name="DasarPemrogramanKotlin" />
@@ -68,6 +64,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PraPraktikumKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PraPraktikumKt" />
+      <module name="DasarPemrogramanKotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SandiMorseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SandiMorseKt" />
       <module name="DasarPemrogramanKotlin" />
@@ -77,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PraPraktikumKt" />
         <item itemvalue="Kotlin.KalkulatorKt" />
         <item itemvalue="Kotlin.Inputan2Kt" />
         <item itemvalue="Kotlin.Inputan1Kt" />
         <item itemvalue="Kotlin.SandiMorseKt" />
-        <item itemvalue="Kotlin.CaesarChiperKt" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1725587746561</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Add Kalkulator.kt">
+      <created>1725588092471</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1725588092471</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -298,7 +308,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add MainApp.kt" />
     <MESSAGE value="Add Literal.kt" />
     <MESSAGE value="Add Whitespaces.kt" />
     <MESSAGE value="Add BlokdanKomentar.kt" />
@@ -323,20 +332,7 @@
     <MESSAGE value="Add SandiMorse.kt" />
     <MESSAGE value="Add Inputan1.kt" />
     <MESSAGE value="Add Inputan2.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Inputan2.kt" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/PenerapanString.kt</url>
-          <properties method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Add Kalkulator.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Kalkulator.kt" />
   </component>
 </project>
